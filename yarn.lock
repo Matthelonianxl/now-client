@@ -1471,6 +1471,19 @@ fetch-h2@2.2.0:
     to-arraybuffer "1.x"
     tough-cookie "3.x"
 
+fetch-h2@2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/fetch-h2/-/fetch-h2-2.2.2.tgz#84b6bddf06b65aba7e400d437442c25de67ff495"
+  integrity sha512-5/DJyQTPIwsmSXyloy3148zfROifWGe0HanMy8sIylkhoRPOY29TmRHsRSErp4w7L8CqdvMDTAkhVDaITzGnGw==
+  dependencies:
+    "@types/tough-cookie" "2.x"
+    already "1.x"
+    callguard "1.x"
+    get-stream "5.x"
+    through2 "3.x"
+    to-arraybuffer "1.x"
+    tough-cookie "3.x"
+
 figures@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/figures/-/figures-2.0.0.tgz#3ab1a2d2a62c8bfb431a0c94cb797a2fce27c962"
