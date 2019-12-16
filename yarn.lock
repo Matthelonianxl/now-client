@@ -508,6 +508,17 @@
     agentkeepalive "3.4.1"
     debug "3.1.0"
 
+"@zeit/fetch@5.1.1":
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/@zeit/fetch/-/fetch-5.1.1.tgz#be7c93303e9bcef5690990c40c88929cc72ba362"
+  integrity sha512-li5nBgVWB1hSNKSjLr/LI13/MGSqdRKA6hzKlAlUZ7D5OwXUT5iuWn57jBcgb9OH5qy2oRhxrjYtinVNN36hVA==
+  dependencies:
+    "@types/async-retry" "1.2.1"
+    "@zeit/fetch-cached-dns" "1.2.0"
+    "@zeit/fetch-retry" "4.0.0"
+    agentkeepalive "3.4.1"
+    debug "3.1.0"
+
 "@zeit/git-hooks@0.1.4":
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/@zeit/git-hooks/-/git-hooks-0.1.4.tgz#70583db5dd69726a62c7963520e67f2c3a33cc5f"
